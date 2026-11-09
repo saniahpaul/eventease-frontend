@@ -1,0 +1,3 @@
+- [ ] Build EventEase public event discovery, details and registration.
+- [ ] Build demo-ready admin login, dashboard, event management and registrations.
+- [ ] Validate routes, key flows, responsive layouts, tests and latest preview logs.
